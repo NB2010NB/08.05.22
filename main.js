@@ -121,12 +121,25 @@
 //     i++
 // }
 
-var fiveNumber1 = +prompt("number1")
-while (fiveNumber1 < 5) {
-    document.write("hello");
-    fiveNumber1++
-}
-// var fiveNumber2 = + prompt("number2")
-// var fiveNumber3 = + prompt("number3")
-// var fiveNumber4 = + prompt("number4")
-// var fiveNumber5 = + prompt("number5")
+// var i = 0
+// while (i < 51) {
+//     console.log(i % 2 == 0)
+//     console.log(i)
+// }
+
+//  var i = 2
+//  while (i < 51) {
+// if (i % 2 == 0) {
+//        console.log(i)
+//     }
+//     i++ 
+//  } 
+
+// var num = 0
+// while (num < 51) {
+//     if (num % 3 == 0){
+//         console.log(num)
+//     }
+//     num++
+// }
+
