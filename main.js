@@ -142,10 +142,19 @@
 //     }
 //     num++
 // }
-
+ 
 // for(var i =0;i<101;i++){
 //     console.log(i)
 // }
+
+// var sum = 0
+// var averge = 0
+// for (var i = 0; i < 5; i++) {
+//     sum += +prompt()
+//     averge = sum / 5
+// }
+// console.log(sum, averge)
+
 
 // for (var NUM = 0; NUM < 51; NUM++) {
 //     if (NUM % 2 == 0){
@@ -158,4 +167,6 @@
 //          console.log(num)
 //      }
 //  }
+
+
 
