@@ -143,3 +143,19 @@
 //     num++
 // }
 
+// for(var i =0;i<101;i++){
+//     console.log(i)
+// }
+
+// for (var NUM = 0; NUM < 51; NUM++) {
+//     if (NUM % 2 == 0){
+//         console.log(NUM)
+//     }
+// }
+
+//  for (var num = 0; num < 51; num++) {
+//      if (num % 3 == 0){
+//          console.log(num)
+//      }
+//  }
+
