@@ -142,7 +142,7 @@
 //     }
 //     num++
 // }
- 
+
 // for(var i =0;i<101;i++){
 //     console.log(i)
 // }
@@ -169,4 +169,11 @@
 //  }
 
 
+// var arrayAge = [6, 8, 21, 34, 4, 76, 23, 11]
+// function age(arrayAge20) {
+//     for (var i = 0; i < arrayAge.length; i++) {
+// if
+//     }
+// }
+// console.log(age(arrayAge20))
 
